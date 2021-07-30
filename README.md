@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @singhmansi07
 - 👀 I’m interested in FRONTEND DEVELOPMENT 
-- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT
+- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT & REACT
 - 💞️ I’m looking to collaborate on INTERNSHIPS
 - 📫 How to reach me: mansisinghrajput07@gmail.com
 
